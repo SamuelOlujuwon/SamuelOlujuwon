@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **Samuel Ogunseye**  
 **Data Scientist | Banker | Credit & Fraud Analyst | Risk Management Professional | Machine Learning Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Ogunseye-blue?logo=linkedin)](https://www.linkedin.com/in/samuel-ogunseye-8396ab131)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Ogunseye-blue?logo=linkedin)](https://www.linkedin.com/in/samuel-o-8396ab131/)
 [![GitHub](https://img.shields.io/badge/GitHub-SamuelOlujuwon-black?logo=github)](https://github.com/SamuelOlujuwon)
 
 ---
