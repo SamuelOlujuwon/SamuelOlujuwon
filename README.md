@@ -98,7 +98,7 @@ I specialize in **turning raw data into actionable insights**, building **predic
 ---
 
 ## 📫 Let’s Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-ogunseye-8396ab131)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-o-8396ab131/)  
 - 🖥️ [GitHub](https://github.com/SamuelOlujuwon)  
 - 📧 Email: olujuwon.ogunseye@gmail.com  
 
